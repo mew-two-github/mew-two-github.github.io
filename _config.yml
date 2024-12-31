@@ -22,11 +22,11 @@ repository               : "mew-two-github/mew-two-github.github.io"
 author:
   # Biographic information
   avatar           : "bio-picture.jpg"
-  name             : "Vishal Sivaraman"
+  name             : "Vishal"
   pronouns         : # example: "she/her"  
   bio              : "MS in Operations Research, Georgia Tech"
-  location         : "Atlanta"
-  employer         : "Georgia Institute of Technology"
+  location         : "Atlanta, Georgia, USA"
+  employer         : #"Georgia Institute of Technology"
   uri              : # URL
   email            : "vishal.sivaraman00@gmail.com" 
 
