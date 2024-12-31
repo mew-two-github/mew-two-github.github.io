@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year MS student in Operations Research at the [Industrial & Systems Engineering](https://www.isye.gatech.edu/) Department at Georgia Tech, Atlanta. I am currently working with [Prof. Siva Theja Maguluri](https://sites.google.com/site/sivatheja/).
+I am a final year MS student in Operations Research in the [Industrial & Systems Engineering](https://www.isye.gatech.edu/) Department at Georgia Tech, Atlanta. I am currently working with [Prof. Siva Theja Maguluri](https://sites.google.com/site/sivatheja/).
 
 I am interested in working on stochastic modeling, queueing theory and learning algorithms with applications to resource allocation and online platforms. I completed a B.Tech with honors in Chemical Engineering and a Minor in System Engineering from the Indian Institute of Technology, Madras. 
 
