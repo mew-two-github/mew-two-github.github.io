@@ -15,8 +15,15 @@ I am interested in working on stochastic modeling, queueing theory and reinforce
 
 # <span style="color:navy;">Publications</span>
 * <b>Sivaraman, V.</b>, Kurapati, R., & Natarajan, U. (2024). Solvation-free energy of uncharged and charged water-soluble synthetic
-polymer using adaptive Poisson-Boltzmann solver: poly(acrylic acid). [Molecular Simulation, 1–10](doi.org/10.1080/08927022.2024.2439623).
+polymer using adaptive Poisson-Boltzmann solver: poly(acrylic acid). [Molecular Simulation, 1–10](https://doi.org/10.1080/08927022.2024.2439623).
+
+Application of faster methods based on Poisson-Boltzmann model of electrostatics to calculate the solvation energy of Polyacryclic acid, a synthetic polymer for a dilute solution of polymer. Reports a crossover of variation of total solvation energy for SASA (Solvent Accessible Surface Area) and SAV (Solvent Accessible Volume) from one scaling to the other seen before only for hydrophobic solutes before. 
 
 # <span style="color:navy;"> Current Work
 
-I am working with Prof. Siva Theja Maguluri on Spatial Matching of Dynamic Two-Sided Queues. You can have a preview of the work in progress [here]( https://drive.google.com/file/d/1cC8m16tKW4DUEIjKR9_qeQXSLuqs1uwa/view?usp=sharing)
+Working with Prof. Siva Theja Maguluri on Spatial Matching of Dynamic Two-Sided Queues. The [previous work](https://arxiv.org/abs/1911.02213) showed the near-optimality of max-weight algorithm for matching. Working on modifying the max-weight algorithm when we incorporate distances in the system to ensure it is stable (queue sizes do not go to infinity) and show its optimality. Performed simulations to see the algorithm's performance under high traffic for different systems and compared it with the performance of a baseline algorithm.
+ 
+
+You can have a preview of the work in progress [here]( https://drive.google.com/file/d/1cC8m16tKW4DUEIjKR9_qeQXSLuqs1uwa/view?usp=sharing)
+
+
