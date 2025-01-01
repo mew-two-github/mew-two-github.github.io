@@ -17,7 +17,7 @@ I am interested in working on stochastic modeling, queueing theory and reinforce
 * <b>Sivaraman, V.</b>, Kurapati, R., & Natarajan, U. (2024). Solvation-free energy of uncharged and charged water-soluble synthetic
 polymer using adaptive Poisson-Boltzmann solver: poly(acrylic acid). [Molecular Simulation, 1–10](https://doi.org/10.1080/08927022.2024.2439623).
 
-Application of faster methods based on Poisson-Boltzmann model of electrostatics to calculate the solvation energy of Polyacryclic acid, a synthetic polymer for a dilute solution of polymer. Reports a crossover of variation of total solvation energy for SASA (Solvent Accessible Surface Area) and SAV (Solvent Accessible Volume) from one scaling to the other seen before only for hydrophobic solutes before. 
+Application of faster methods based on Poisson-Boltzmann model of electrostatics to calculate the solvation energy for a dilute solution of Polyacryclic acid, a synthetic polymer. Reports a crossover of variation of total solvation energy for SASA (Solvent Accessible Surface Area) and SAV (Solvent Accessible Volume) from one scaling to the other seen only for hydrophobic solutes before. 
 
 # <span style="color:navy;"> Current Work
 
